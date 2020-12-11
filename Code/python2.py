@@ -72,12 +72,7 @@ def two(input):
 	# What happens if you multiply a string by a number?
 
 def three(a):
-	new_value += a*2
-	
-	
-
-
-	return a + (a) + a*3 + a*4
+	return a + (aa) + (aaa) + (aaaa)
 
 	# <QUESTION 4>
 
